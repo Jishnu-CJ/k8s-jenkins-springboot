@@ -68,3 +68,21 @@ kubectl get svc
 ```
 http://ae173bee2e9214528b1ca3420dfbe34c-1569324820.us-east-2.elb.amazonaws.com/hello
 ```
+
+### Screenshots
+
+* Jenkins Job
+
+ ![](https://github.com/Jishnu-CJ/k8s-jenkins-springboot/blob/main/Jenkins-job.png)
+
+*  DockerHub
+
+ ![](https://github.com/Jishnu-CJ/k8s-jenkins-springboot/blob/main/DockerHub.png)
+
+* K8s status
+
+ ![](https://github.com/Jishnu-CJ/k8s-jenkins-springboot/blob/main/K8s-status.png)
+
+* Output
+
+![](https://github.com/Jishnu-CJ/k8s-jenkins-springboot/blob/main/output.k8s.png)
