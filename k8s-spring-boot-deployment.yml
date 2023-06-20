@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: jishnucj/jishnucj-docker-demo:jishnucj-docker-demo
+          image: jishnucj/jishnucj-docker-demo-test:jishnucj-docker-demo-test
           ports:
             - containerPort: 8080
           env:
