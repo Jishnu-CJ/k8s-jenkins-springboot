@@ -8,6 +8,6 @@ public class JhooqDockerDemoController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello - It's Jishnu here and build a java Springboot application that deployed into EKS using Jenkins CICD Demo";
+        return "Hello - It's Jishnu here and built a java Springboot application that deployed into EKS using Jenkins CICD Demo";
     }
 }
