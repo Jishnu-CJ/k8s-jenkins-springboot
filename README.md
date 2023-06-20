@@ -1,1 +1,1 @@
-# k8s-jenkins-springboot
+# k8s-jenkins-aws
