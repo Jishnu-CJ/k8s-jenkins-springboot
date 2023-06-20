@@ -10,6 +10,7 @@ Tools we've used in the project:
 * Docker
 * Jenkins
 * AWS-EC2
+* Dockerhub
 
 Steps that followed
 
