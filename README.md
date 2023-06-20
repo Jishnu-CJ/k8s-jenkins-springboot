@@ -1,6 +1,7 @@
 # Jenkins CI/CD Pipeline setup to Deploy a Springboot application on EKS
 
-In this demo, I've deployed a springboot application on EKS with a CICD pipeline using Jenkins.
+In this demo, I've deployed a spring boot application on EKS with a CICD pipeline using Jenkins.
+
 This CICD demo builds a spring boot application using Docker and pushes the images to the Docker hub, and the k8s will pull the images from the Docker hub and deploy them into the EKS cluster.
 
 Tools we've used in the project:
